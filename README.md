@@ -6,8 +6,10 @@ All simulations converge towards moral behaviour by the 100th generation, despit
 I am no expert in evolutionary psychology, of course.
 
 <center>
+  
 |         | Moral | Immoral |
 |---------|-------|---------|
 | Moral   | 2,2   | 0,3     |
 | Immoral | 3,0   | 1,1     |
+
 </center>

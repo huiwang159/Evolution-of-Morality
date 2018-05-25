@@ -1,5 +1,5 @@
 # evo_gam_mor
-Two simulations that may explain the origin of morality within the framework of evolutionary game theory. 
+evo_gam_mor presents two simulations that may explain the origin of morality within the framework of evolutionary game theory. 
 
 Each invidual has the following attributes: morality, probability of interacting morally; naivety, assumed utility of interactions with all individuals; and memory, probability of interacting with the individual with highest value.
 

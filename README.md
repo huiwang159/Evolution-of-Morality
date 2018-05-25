@@ -5,7 +5,7 @@
   <img src="tb.png"/>
 </p>
 
-All simulations with different parameters converge towards morality, despite the fact that interacting immorally is the dominant strategy of each single interaction. In this simulation, as by conventional wisdom, immorality at the expense of future cooperation is penny wise, pound foolish. This also suggests that memory, a prerequisite for the preference of individuals, is a precursor for morality. I am no expert in evolutionary psychology, of course.
+All simulations with different mutation rates converge towards morality, despite the fact that interacting immorally is the dominant strategy of each single interaction. In this simulation, as by conventional wisdom, immorality at the expense of future cooperation is penny wise, pound foolish. This also suggests that memory, a prerequisite for the preference of individuals, is a precursor for morality. I am no expert in evolutionary psychology, of course.
 
 <p align="center">
   <img src="ex.png"/>

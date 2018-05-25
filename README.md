@@ -7,3 +7,13 @@
 | Immoral | 3,0   | 1,1     |
 
 All simulations converge towards morality by the 100th generation, despite the fact that interacting immorally is the dominant strategy of each single interaction. In this simulation, as by conventional wisdom, immorality at the expense of future cooperation is penny wise, pound foolish. This also suggests that memory, a prerequisite for the preference of individuals, is a precursor for morality. I am no expert in evolutionary psychology, of course.
+
+<center>
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+</center>
